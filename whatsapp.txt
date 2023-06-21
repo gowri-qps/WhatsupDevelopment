@@ -16,6 +16,10 @@ Author: Gowri
 
 7.Adding the video call feature
 
+
+
 8. Adding status to play train games
 
 9. Adding option to create groups upto 100 users
+
+10. Adding group hat feature
